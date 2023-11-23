@@ -44,3 +44,8 @@ State-of-the art supervised learning techniques require extensive collections of
 - **`HAM10000_metadata.csv`:** Metadata file for the HAM10000 dataset.
 
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+The full text of the MIT License is available in the [LICENSE](LICENSE) file.
+
