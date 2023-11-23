@@ -26,3 +26,39 @@
    ```python
    !pip install snorkel
    !pip install kaggle
+
+# Project Name
+
+Brief description or introduction to the project.
+
+## Running the Notebooks
+
+### 1. Dataset_AI_project.ipynb
+
+- Open and run the `Dataset_AI_project.ipynb` Colab Notebook.
+- Ensure that the Kaggle API key (`kaggle.json`) is uploaded to the Colab environment.
+
+### 2. Data_Analytics_AI_project.ipynb
+
+- Open and run the `Data_Analytics_AI_project.ipynb` Colab Notebook.
+- The notebook focuses on the analysis of the metadata (`HAM10000_metadata.csv`).
+
+## Files and Directories
+
+- **`Dataset_AI_project.ipynb`:** Colab Notebook for dataset preparation.
+- **`Data_Analytics_AI_project.ipynb`:** Colab Notebook for data analytics and visualization.
+- **`kaggle.json`:** Kaggle API key file (required for downloading datasets).
+- **`HAM10000_metadata.csv`:** Metadata file for the HAM10000 dataset.
+
+## Setup
+
+### Google Colab Setup
+
+1. **Install Required Packages:**
+   - Open a code cell in your Colab notebook.
+   - Run the following commands to install the required packages:
+
+   ```python
+   !pip install snorkel
+   !pip install kaggle
+
