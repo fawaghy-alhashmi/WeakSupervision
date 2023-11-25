@@ -36,7 +36,7 @@ State-of-the art supervised learning techniques require extensive collections of
 
 - **Open the `main.ipynb` Colab Notebook.**
 - **Upload the `primatives.py` and the metadata (`HAM10000_metadata.csv`) files before running.** The `primatives.py` file contains the functions used within the labeling functions and metadata.
--  **Note:** The code has a cell to remove hair, which results in the `hair_removed_images` file. Running takes approximately 40 minutes. To save time, ensure Google Drive is mounted in your Google Colab, and place the `hair_removed_images` file in the `MyDrive` location. Skip the hair removing cell and proceed to the next cells to simply upload the output (`hair_removed_images`).
+-  **Note:** The code has a cell to remove hair, which results in the `hair_removed_images` file. Running takes approximately 40 minutes. To save time, ensure Google Drive is mounted in your Google Colab, and place the `hair_removed_images` file in the `MyDrive` location. Skip the hair removing cell and proceed to the next cells to simply upload the output (`hair_removed_images`). otherwise run the cell.. 
     [Google Drive Link to `hair_removed_images`](https://drive.google.com/drive/folders/154dFq4eGbzy_vv-lMZ_OB2CQ4K5ErIw-?usp=sharing)
 - **Run the `main.ipynb` Colab Notebook.** Additionally, when running, ensure that the Kaggle API key (`kaggle.json`) is uploaded to the Colab environment when running the fourth cell.
 
