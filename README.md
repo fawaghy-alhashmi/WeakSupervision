@@ -26,7 +26,7 @@ State-of-the art supervised learning techniques require extensive collections of
 
 ## Running the Notebooks
 
-### 1. Dataset_AI_project.ipynb
+### 1. main.ipynb
 
 - Open and run the `main.ipynb` Colab Notebook.
 - Ensure that the Kaggle API key (`kaggle.json`) is uploaded to the Colab environment, when running the fourth cell you should uploud your  Kaggle API key (`kaggle.json`) to uploud the dataset to the environment.
