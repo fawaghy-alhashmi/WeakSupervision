@@ -42,6 +42,7 @@ State-of-the art supervised learning techniques require extensive collections of
 - **`Data_Analytics_AI_project.ipynb`:** Colab Notebook for data analytics and visualization.
 - **`kaggle.json`:** Kaggle API key file (required for downloading datasets).
 - **`HAM10000_metadata.csv`:** Metadata file for the HAM10000 dataset.
+- **`primatives.py`**: Python file containing all labeling functions written for review.
 
 
 
