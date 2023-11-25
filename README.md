@@ -30,15 +30,15 @@ State-of-the art supervised learning techniques require extensive collections of
 
 ### 1. main.ipynb
 
-- Open and run the `main.ipynb` Colab Notebook.
-- Upload the `primatives.py` and the metadata (`HAM10000_metadata.csv`) files before running. The `primatives.py` file contains all labeling functions. Additionally, Ensure that the Kaggle API key (`kaggle.json`) is uploaded to the Colab environment when running the fourth cell
+- Open  the `main.ipynb` Colab Notebook.
+- Upload the `primatives.py` and the metadata (`HAM10000_metadata.csv`) files before running. The `primatives.py` file contains  the functions used within the labeling functions, and meta data.
+- Run the `main.ipynb` Colab Notebook, Additionally, when runnning ensure that the Kaggle API key (`kaggle.json`) is uploaded to the Colab environment when running the fourth cell.
 
 ### 2. Data_Analytics_AI_project.ipynb
 
-- Open and run the `Data_Analytics_AI_project.ipynb` Colab Notebook.
+- Open  the `Data_Analytics_AI_project.ipynb` Colab Notebook.
 - Ensure to upload the metadata (`HAM10000_metadata.csv`) file before running. The notebook focuses on the analysis of the metadata.
-
-
+- Run the `Data_Analytics_AI_project.ipynb` Colab Notebook.
 
 ## Files and Directories
 
