@@ -24,14 +24,14 @@ State-of-the art supervised learning techniques require extensive collections of
    !pip install snorkel
    !pip install kaggle
 
-## Running the Notebooks
 
-## Running the Notebooks
+
+## Running the Notebooks instructions
 
 ### 1. main.ipynb
 
 - Open and run the `main.ipynb` Colab Notebook.
-- Ensure that the Kaggle API key (`kaggle.json`) is uploaded to the Colab environment. Additionally, upload the `primatives.py` and the metadata (`HAM10000_metadata.csv`) files before running. The `primatives.py` file contains all labeling functions.
+- Upload the `primatives.py` and the metadata (`HAM10000_metadata.csv`) files before running. The `primatives.py` file contains all labeling functions. Additionally, Ensure that the Kaggle API key (`kaggle.json`) is uploaded to the Colab environment when running the fourth cell
 
 ### 2. Data_Analytics_AI_project.ipynb
 
